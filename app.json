@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "DC",
+    "slug": "DC",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/mainLogo.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#28282B"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#28282B"
+      },
+      "package": "com.siddharthnarela.DC"
+    },
+    "web": {
+      "favicon": "./assets/adaptive-icon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "8be25290-e95b-4b9d-b31b-089a14627de0"
+      }
+    }
+  }
+}
