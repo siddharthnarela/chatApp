@@ -10,7 +10,7 @@ const firebaseConfig = {
   projectId:,
   storageBucket: ,
   messagingSenderId: ",
-  appId: "1:909335024365:web:,
+  appId:,
   measurementId: "
 };
 
